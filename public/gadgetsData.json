@@ -1,0 +1,201 @@
+[
+    {
+        "product_id": "1",
+        "product_title": "Lenovo ThinkPad X1",
+        "product_image": "https://i.ibb.co.com/4Z7BpCN/Lenovo-Think-Pad-X1-Yoga-front.webp",
+        "category": "Laptops",
+        "price": 950,
+        "description": "High-performance laptop with Intel i7 processor and 16GB RAM.",
+        "specification": ["Intel i7", "16GB RAM", "512GB SSD", "14-inch display"],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "2",
+        "product_title": "Dell XPS 13",
+        "product_image": "https://i.ibb.co.com/8P6Lw5L/XPS13-V2-768x477.jpg",
+        "category": "Laptops",
+        "price": 1050,
+        "description": "Premium ultrabook with InfinityEdge display and sleek design.",
+        "specification": ["Intel i7", "8GB RAM", "256GB SSD", "13.3-inch display"],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "3",
+        "product_title": "Lenovo Yoga 9i",
+        "product_image": "https://i.ibb.co.com/Cnv4htF/yoga-9i-002-500x500-1.jpg",
+        "category": "Laptops",
+        "price": 1199,
+        "description": "Versatile 2-in-1 laptop with a vibrant touchscreen and powerful specs.",
+        "specification": ["Intel Core i7", "16GB RAM", "512GB SSD", "14-inch 4K UHD touchscreen"],
+        "availability": true,
+        "rating": 4.7
+    },
+    
+    {
+        "product_id": "4",
+        "product_title": "HP Spectre x360",
+        "product_image": "https://i.ibb.co.com/Qdc1SKm/HP-Spectre-16-F1013-DX-in-BD-1.webp",
+        "category": "Laptops",
+        "price": 1200,
+        "description": "Convertible laptop with 4K display and premium build quality.",
+        "specification": ["Intel i7", "16GB RAM", "512GB SSD", "13.5-inch 4K display"],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "5",
+        "product_title": "Acer Swift 3",
+        "product_image": "https://i.ibb.co.com/WcrL1sm/Acer-Swift-3-GO-Price-In-BD-2.jpg",
+        "category": "Laptops",
+        "price": 750,
+        "description": "Affordable and lightweight laptop with AMD Ryzen 5.",
+        "specification": ["AMD Ryzen 5", "8GB RAM", "256GB SSD", "14-inch display"],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "product_id": "6",
+        "product_title": "Asus ZenBook 14",
+        "product_image": "https://i.ibb.co.com/nQVW0zk/ASUS-Zenbook-14-OLED-Q415-MA-Ultrabook-Laptop-4.webp",
+        "category": "Laptops",
+        "price": 900,
+        "description": "Compact and portable laptop with powerful specs.",
+        "specification": ["Intel i5", "8GB RAM", "512GB SSD", "14-inch display"],
+        "availability": false,
+        "rating": 4.4
+    },
+    {
+        "product_id": "7",
+        "product_title": "Xiaomi Mi 12",
+        "product_image": "https://i.ibb.co.com/RDRrSBD/Xiaomi-12-X.jpg",
+        "category": "Phones",
+        "price": 699,
+        "description": "High-performance smartphone with impressive display and camera.",
+        "specification": ["Snapdragon 8 Gen 1", "256GB storage", "6.28-inch AMOLED display", "Triple-camera system"],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "8",
+        "product_title": "Realme GT Neo 3",
+        "product_image": "https://i.ibb.co.com/5xPMWmW/Realme-GT-Neo3-Naruto-Edition.jpg",
+        "category": "Phones",
+        "price": 550,
+        "description": "Affordable flagship with super-fast charging and great performance.",
+        "specification": ["Dimensity 8100", "128GB storage", "6.7-inch AMOLED display", "Triple-camera system"],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "9",
+        "product_title": "Samsung Galaxy S21",
+        "product_image": "https://i.ibb.co.com/L8zqbZG/2101-34043.jpg",
+        "category": "Phones",
+        "price": 850,
+        "description": "Flagship Samsung phone with high-quality display and performance.",
+        "specification": ["Exynos 2100", "128GB storage", "6.2-inch AMOLED display", "Triple-camera system"],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "10",
+        "product_title": "Anker PowerCore 10000",
+        "product_image": "https://i.ibb.co.com/j5R2GSY/a1246-01-v1-26680.jpg",
+        "category": "Accessories",
+        "price": 35,
+        "description": "Compact power bank with 10,000mAh capacity.",
+        "specification": ["10,000mAh capacity", "Fast charging", "Lightweight"],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "11",
+        "product_title": "Logitech Wireless Mouse",
+        "product_image": "https://i.ibb.co.com/tcPPqJn/g-pro-wireless-01-500x500.jpg",
+        "category": "Accessories",
+        "price": 29,
+        "description": "Ergonomic wireless mouse with long battery life.",
+        "specification": ["Wireless", "Ergonomic design", "Long battery life"],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "12",
+        "product_title": "Bose QuietComfort 35",
+        "product_image": "https://i.ibb.co.com/DkkRKL0/Bose-QCHeadphones-TA.webp",
+        "category": "Accessories",
+        "price": 299,
+        "description": "Noise-cancelling headphones with excellent sound quality.",
+        "specification": ["Bluetooth", "20 hours battery life", "Noise-cancelling"],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "13",
+        "product_title": "Apple Watch Series 7",
+        "product_image": "https://i.ibb.co.com/n1CL8k7/Apple-Watch-Series-7-5.jpg",
+        "category": "Smart Watches",
+        "price": 399,
+        "description": "Advanced smartwatch with health and fitness tracking features.",
+        "specification": ["Retina display", "GPS + Cellular", "Blood Oxygen app", "Water resistant"],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "14",
+        "product_title": "Samsung Galaxy Watch 4",
+        "product_image": "https://i.ibb.co.com/1fNmzWj/galaxy-watch4-classic-black-health.webp",
+        "category": "Smart Watches",
+        "price": 299,
+        "description": "Versatile smartwatch with advanced health tracking.",
+        "specification": ["Super AMOLED display", "Wear OS", "GPS", "Body Composition Analysis"],
+        "availability": false,
+        "rating": 4.5
+    },
+    {
+        "product_id": "15",
+        "product_title": "MacBook Pro 16\" M1",
+        "product_image": "https://i.ibb.co.com/2MB2BXn/Mac-Book-Pro-Retina-16-Inch-41411.jpg",
+        "category": "MacBook",
+        "price": 2399,
+        "description": "Professional laptop with stunning performance and display.",
+        "specification": ["Apple M1 Pro", "16GB RAM", "1TB SSD", "16-inch Retina display"],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": "16",
+        "product_title": "MacBook Air 13\" M2",
+        "product_image": "https://i.ibb.co.com/Mf8BJ17/apple-macbook-air-13-inch-macbook-air-13-inch-m1-silver-2020-fair-40355096265020.webp",
+        "category": "MacBook",
+        "price": 1299,
+        "description": "Ultra-light laptop with Apple's latest M2 chip.",
+        "specification": ["Apple M2", "8GB RAM", "256GB SSD", "13.3-inch Retina display"],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "17",
+        "product_title": "iPhone 14",
+        "product_image": "https://i.ibb.co.com/1s8zY87/14-purple.jpg",
+        "category": "iPhones",
+        "price": 1099,
+        "description": "The latest iPhone with advanced camera system and A16 Bionic chip.",
+        "specification": ["A16 Bionic", "128GB storage", "6.1-inch Super Retina XDR display", "Triple-camera system"],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": "18",
+        "product_title": "iPhone 10",
+        "product_image": "https://i.ibb.co.com/nbRVDLy/s-l1200.jpg",
+        "category": "iPhones",
+        "price": 799,
+        "description": "Previous generation iPhone with excellent performance and a dual-camera system.",
+        "specification": ["A15 Bionic chip", "128GB storage", "6.1-inch display", "Dual-camera system"],
+        "availability": true,
+        "rating": 4.7
+    }
+]
